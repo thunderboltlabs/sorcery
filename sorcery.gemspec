@@ -53,6 +53,7 @@ Gem::Specification.new do |s|
     "lib/sorcery/controller/submodules/external/providers/twitter.rb",
     "lib/sorcery/controller/submodules/external/providers/vk.rb",
     "lib/sorcery/controller/submodules/external/providers/xing.rb",
+    "lib/sorcery/controller/submodules/external/providers/weibo.rb",
     "lib/sorcery/controller/submodules/http_basic_auth.rb",
     "lib/sorcery/controller/submodules/remember_me.rb",
     "lib/sorcery/controller/submodules/session_timeout.rb",

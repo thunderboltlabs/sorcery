@@ -40,6 +40,7 @@ module Sorcery
           autoload :Linkedin, 'sorcery/controller/submodules/external/providers/linkedin'
           autoload :Vk, 'sorcery/controller/submodules/external/providers/vk'
           autoload :Xing, 'sorcery/controller/submodules/external/providers/xing'
+          autoload :Weibo, 'sorcery/controller/submodules/external/providers/weibo'
         end
       end
     end
